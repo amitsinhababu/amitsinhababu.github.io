@@ -16,7 +16,7 @@ GITHUB PAGES
 EDITING
 Content and styles are in index.html. Replace assets/amit-sinhababu.jpg to change the photo.
 Current teaching lists only Graduate Mathematical Toolkit I, as requested.
-Past courses include verified offerings from 2022, 2023, 2024, and 2025.
+Past courses list previous teaching, with semester details where available.
 The Notes section is ready for future notes and currently contains no document links.
 The research list is selected, not exhaustive. Papers without a conference venue are marked as preprints.
 The newest paper uses the six-author 8 November 2026 revision: Hitting Sets from Derivations: Waring Rank and Noncommutative ABPs.
@@ -24,6 +24,6 @@ The newest paper uses the six-author 8 November 2026 revision: Hitting Sets from
 Verified profile and publication links are included on the page.
 Newest paper source: https://www.tcs.tifr.res.in/~ramprasad/pubs/
 Portrait source: https://cims.nyu.edu/~regev/toc/articles/v015a016/about.html
-Design reference: https://www.cs.sfu.ca/~rgandrew/
+Credits for the design: Robert Andrews' webpage - https://cs.uwaterloo.ca/~randrews/
 
 Updated 14 November 2026.
